@@ -61,13 +61,13 @@ Need advanced task functionality like dedicated worker threads or OS services? E
 ## Installation
 
 ```bash
-$ npm install --save https://github.com/inkitt/react-native-queue-asyncstorage
+$ npm install --save https://github.com/glancyinc/react-native-queue-asyncstorage
 ```
 
 Or
 
 ```bash
-$ yarn add https://github.com/inkitt/react-native-queue-asyncstorage
+$ yarn add https://github.com/glancyinc/react-native-queue-asyncstorage
 ```
 
 ## Basic Usage
